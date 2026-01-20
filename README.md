@@ -1,6 +1,7 @@
 # Data Warehouse and Analytics Project
 
-Welcome to the ** Data Warehouse and Analytics Project ** repository 🚀
+Welcome to the **Data Warehouse and Analytics Project** repository 🚀
+
 Building a modern data warehouse with SQL, including ETL processes, data modeling, and analytics.
 
 ---
